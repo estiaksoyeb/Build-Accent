@@ -78,4 +78,4 @@ The app is built around a proven scientific method for language acquisition:
 
 ## 📜 License
 
-This project is intended for personal and educational use. See individual file headers for specific logic handling.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the [LICENSE](LICENSE) file for the full text.
